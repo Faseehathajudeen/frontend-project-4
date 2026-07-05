@@ -29,7 +29,8 @@ A simple registration form created using HTML, CSS, and JavaScript. The project 
 
 
 ## screenshots 
-
+screenshot_task_4_1.jpg
+screenshot_task_4_2.jpg
 
 ## Author
 Faseeha Thajudeen
