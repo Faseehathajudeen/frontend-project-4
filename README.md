@@ -27,5 +27,10 @@ A simple registration form created using HTML, CSS, and JavaScript. The project 
 2. Open `index.html` in your web browser.
 3. Fill in the form and test the validation.
 
+##screenshots
+
+![Project Screenshot](screenshot_task_4_1.jpg)
+![Project Screenshot](screenshot_task_4_2.jpg)
+
 ## Author
 Faseeha Thajudeen
